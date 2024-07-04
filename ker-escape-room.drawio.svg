@@ -1,4 +1,4 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="291px" height="141px" viewBox="-0.5 -0.5 291 141" content="&lt;mxfile&gt;&lt;diagram id=&quot;RcM63JeHGXzhzL85dVLH&quot; name=&quot;Page-1&quot;&gt;jVVLj9owEP41SO2BKo8t2z0Cy+72QFUpans2zuC469ip7RDg13f8CCE8pL3AzDfv8cxkki/r/asmTbVWJYhJlpT7Sf48ybKnPMNfBxwCkKb5U0CY5mXEBqDgR4hgEtGWl2BGilYpYXkzBqmSEqgdYURr1Y3VtkqMozaEwRVQUCKu0T+8tFVAv31NBvwNOKv6yGkSJTXplSNgKlKq7gzKV5N8qZWygar3SxCueX1fgt3LHekpMQ3SfsQgvsSOiDbWNslmAk0XW4UeMEF7iFXP/rWqF0yNf5M5KqRpg++6GORIMff/qojwKjNSN8jLjWmC2Ps3DZE3/VMllA6+Ndt8ynKsYIlMlj9G4iH/7B0lPpUtqbk4BIMpaRoBU3MwFuqgvRBcvq8JLTz24qty+CmvGLYApgDxX98vJbf1fyirEC6INLcN3kDswHJKAjvXHPvhSYM2UwOab2+7nrsiEF/6TmTJqlZ/+ceyOq/ijp3v3IbQd6ZVK8vpRb/TPHhO+27HZl8+L9VALJfMrZR7SC4taEIt37n4YChpHIGjXDt+32C9IKnDugo0hDHF/nAcBGvccrTGT5wS3oVQjFOn1R6PAozfccdqxTQYz1dYAas85SwYqeFLP18b3Wd6jax//4zDO2TYcVtFJETsA8Z87nnF3QqjfAWHDerhbDTsme89uC1MUNxV3ELREOqkHR5NxCpb4/48p0gSwZlEWsB2cLYDbWF/d+/T0zXBMwyqBqsPqBIN+lMVL/BjZLvhmmVPEavOL9lDBEm8oOzkeTgySMQ707PDPfOys69CvvoP&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="291px" height="321px" viewBox="-0.5 -0.5 291 321" content="&lt;mxfile&gt;&lt;diagram id=&quot;RcM63JeHGXzhzL85dVLH&quot; name=&quot;Page-1&quot;&gt;zVZLb9swDP41AbZDCj/atDum6WuHDgPSbWfFpm2tsuRJcuz01496OLZjF8iADdgloT4+JPIjmSziTdk+SlIVzyIFtoiCtF3Ed4souokj/DTAwQHx9coBuaSpg8Ie2NI38GDg0ZqmoEaGWgimaTUGE8E5JHqEESlFMzbLBBvfWpEcJsA2IWyK/qCpLnxaV0GPPwHNi+7mMPCaknTGHlAFSUUzgOL7RbyRQmgnle0GmKldVxfn9/CO9vgwCVyf4+CJ2BNW+9wW0Yqh620mMAI+UB981qtftegUS2U5WaNBGFZI622vRyk334+CMGuyImWFZ75TlVPb+KoifDZ+IpiQLrbMdx+iGDPY4AG7xAuX8UcbKLBPyUhJ2cE5LElVMViqg9JQOutbRvnrM0m2FnuwWRn8+C5/7RZyAYh/+3yqmbf/IrRAeEu4mnd4ArYHTRPijmtJsR5WVOizVCBpNh96bZJAfGMrEQX3pfhJz3vVMIt3/GzldiR5zaWoebo8qXcYu8hhV21f7FN6EwlEU56bkTJEUq5BkkTTvbkfVEIqI2Arl+bcVpgv8MRgTQESXJtifSg2glZmOGplO04wG4KJnCbGqn57Y6DsjJujFLkEZc8FZpAXVjIeOSnhouuvnexeOkWev3/1zdu/sKG68Ii7sbvQv+e9qDhbrpUnsJugDo5GzR7Z2oOZwgDVTUE1bCuSGG2DOxOxQpc4P3chioTRnKPMIOuDDYfcz/0epIZ2APmhfwRRgpYHNGmPK8m5HMabtenXWfTJY8VwlV16kPgVmh9D91sGBb9o5pdOPFk66zRFQNTacVmCvVbOlP3Fai15je0lakPXyhzizl31hKY0y8BWCutPdY1NK/jFP+BjUvwZis7n4+ZMQq7/Ah+XEz6GpSWWmwZYIkrofhyjgEOrZ4bthWptZ0dkp2tgdjT/bxqiqzNpuPlzGvDY/85b3eDPUnz/Gw==&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <rect x="0" y="0" width="290" height="140" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
@@ -24,6 +24,45 @@
                 </foreignObject>
                 <text x="2" y="74" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
                     Goal: creating an interactive escape room experi...
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="170" width="290" height="70" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 288px; height: 1px; padding-top: 205px; margin-left: 2px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                Add out theme here
+                                <br/>
+                                Theme: we will use 3 themes with different situation.
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2" y="209" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Add out theme here...
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="240" width="290" height="80" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 288px; height: 1px; padding-top: 280px; margin-left: 2px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                we will add welcome page next.
+                                <br/>
+                                Tittle of escape room.
+                                <br/>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2" y="284" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    we will add welcome page next....
                 </text>
             </switch>
         </g>
